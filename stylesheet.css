@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Koulen&family=Monoton&family=Press+Start+2P&family=Rubik+Glitch&display=swap');
+
+/*
+font-family: 'Audiowide', cursive;
+font-family: 'Koulen', cursive;
+font-family: 'Monoton', cursive;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Rubik Glitch', cursive;
+*/
+
+body {
+  background-color: #001a1a;
+  color: #00ffff;
+  margin: 25px;
+  font-size: 20px;
+  }
+
+#favicon {
+  margin-left: 20;
+  border-radius: 50%;
+  border-color: #00ffff;
+  border-width: medium;
+  border-style: dashed;
+  float: left;
+}
+
+.heading-1 {
+  font-family: 'Audiowide', cursive;
+  font-size: 50px;
+  margin: 7px;
+  padding: 10px;
+  float: left;
+}
+
+hr {
+  border-style: hidden;
+  border-top-style: groove;
+  border-color: #00ffff;
+  border-top-radius: 5px;
+  float: none;
+}
+
+iframe {
+  margin: 5%;
+  position: relative;
+  width: 500px;
+  height: 300px;
+  padding: 3px;
+  border-width: medium;
+  border-style: dashed;
+  border-radius: 5px;
+  border-color: #00ffff;
+}
